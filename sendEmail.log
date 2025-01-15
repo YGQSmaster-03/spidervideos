@@ -1,0 +1,32 @@
+2025-01-14 15:05:27,308 - INFO - 邮件发送给 1131161935@qq.com 成功
+2025-01-14 15:05:27,789 - INFO - 邮件发送给 merhuge@gmail.com 成功
+2025-01-14 15:13:36,916 - ERROR - 邮件发送给 1131161935@qq.com 失败: (-1, b'\x00\x00\x00')
+2025-01-14 15:13:37,783 - ERROR - 邮件发送给 merhuge@gmail.com 失败: (-1, b'\x00\x00\x00')
+2025-01-14 15:15:09,921 - ERROR - 邮件发送给 1131161935@qq.com 失败: (-1, b'\x00\x00\x00')
+2025-01-14 15:15:10,867 - ERROR - 邮件发送给 merhuge@gmail.com 失败: (-1, b'\x00\x00\x00')
+2025-01-14 15:15:46,343 - ERROR - 邮件发送给 1131161935@qq.com 失败: Connection unexpectedly closed
+2025-01-14 15:15:46,636 - ERROR - 邮件发送给 merhuge@gmail.com 失败: Connection unexpectedly closed
+2025-01-14 15:17:06,786 - ERROR - 邮件发送给 merhuge@gmail.com 失败: Connection unexpectedly closed
+2025-01-14 15:26:16,867 - INFO - 邮件发送给 3935833140@qq.com 成功
+2025-01-14 15:34:56,519 - INFO - 邮件发送给 3935833140@qq.com 成功
+2025-01-14 15:40:29,090 - INFO - 邮件发送给 3935833140@qq.com 成功
+2025-01-14 16:11:55,540 - INFO - 邮件发送给 3935833140@qq.com 成功
+2025-01-14 16:36:56,338 - INFO - [YGQS]韩国主播2022年11月-2023年12月直播录像的百度网盘链接:   https://pan.baidu.com/s/4cC56r3i
+2025-01-14 16:36:56,358 - INFO - [YGQS]韩国主播2022年7月-2022年10月直播录像的百度网盘链接:   https://pan.baidu.com/s/4pWAPIsz
+2025-01-14 16:36:56,359 - INFO - [YGQS]韩国主播2024年1月-2024年12月直播录像的百度网盘链接:   https://pan.baidu.com/s/4kbjZ4BO
+2025-01-14 16:36:56,422 - INFO - [YGQS]韩国主播2022年1月-2022年6月直播录像的百度网盘链接:   https://pan.baidu.com/s/4dSYbn13
+2025-01-15 09:16:29,109 - INFO - [YGQS]韩国主播2022年7月-2022年10月直播录像的百度网盘链接:   https://pan.baidu.com/s/4oRDD7Ge
+2025-01-15 09:16:29,129 - INFO - [YGQS]韩国主播2024年1月-2024年12月直播录像的百度网盘链接:   https://pan.baidu.com/s/4h4inZxE
+2025-01-15 09:16:29,137 - INFO - [YGQS]韩国主播2022年1月-2022年6月直播录像的百度网盘链接:   https://pan.baidu.com/s/4b5OcCVH
+2025-01-15 09:16:29,232 - INFO - [YGQS]韩国主播2022年11月-2023年12月直播录像的百度网盘链接:   https://pan.baidu.com/s/4mwHOlhm
+2025-01-15 09:42:45,194 - INFO - [YGQS]韩国主播2024年1月-2024年12月直播录像的百度网盘链接:   https://pan.baidu.com/s/4h4inZxE
+2025-01-15 09:43:05,609 - ERROR - 在处理 http://zblxbf.com/?id=14 时发生错误: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "http://zblxbf.com/?id=14", waiting until "load"
+
+2025-01-15 09:43:05,612 - ERROR - 在处理 http://zblxbf.com/?id=10 时发生错误: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "http://zblxbf.com/?id=10", waiting until "load"
+
+2025-01-15 09:43:11,691 - ERROR - 在处理 http://zblxbf.com/?id=12 时发生错误: Timeout 30000ms exceeded.
+2025-01-15 09:43:11,729 - INFO - 发送邮件的开关：False

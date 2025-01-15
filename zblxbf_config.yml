@@ -1,0 +1,25 @@
+urls:
+  - url: "http://zblxbf.com/?id=10" #韩2201-2206 = 10
+    label: "KR10"
+    enabled: true
+  - url: "http://zblxbf.com/?id=11" #国内2201-2206 = 11
+    label: "CH11"
+    enabled: true
+  - url: "http://zblxbf.com/?id=12" #韩2207-2210 = 12
+    label: "KR12"
+    enabled: true
+  - url: "http://zblxbf.com/?id=13" #国内2207-2210 = 13
+    label: "CH13"
+    enabled: true
+  - url: "http://zblxbf.com/?id=14" #韩2211-2312 = 14
+    label: "KR14"
+    enabled: true
+  - url: "http://zblxbf.com/?id=15" #国内2211-2312 = 15
+    label: "CH15"
+    enabled: true
+  - url: "http://zblxbf.com/?id=16" #韩2401-2412 = 16
+    label: "KR16"
+    enabled: true
+  - url: "http://zblxbf.com/?id=17" #国内2401-2412 = 17
+    label: "CH17"
+    enabled: true
