@@ -1,5 +1,5 @@
-- List source December 24 Total 267 people
-- 名单来源24年12月  总267人
+- List source December 24 Total 260+ people
+- 名单来源24年12月  总260+人
 
 | CN_NAME    |             |               |           |              |
 |------------|-------------|---------------|-----------|--------------|
