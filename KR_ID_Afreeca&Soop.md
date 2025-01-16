@@ -1,5 +1,5 @@
-- List source December 24 Total 124 people
-- 名单来源24年12月  总124人
+- List source December 24 Total 120+ people
+- 名单来源24年12月  总120+人
 
 | CN_NAME | ID          | KR_NAME | CN_NAME | ID      | KR_NAME | CN_NAME  | ID        | KR_NAME | CN_NAME | ID           | KR_NAME |
 |---------|-------------|---------|---------|---------|---------|----------|-----------|---------|---------|--------------|---------|
