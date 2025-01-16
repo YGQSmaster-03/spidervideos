@@ -42,11 +42,12 @@ async def singleweburl(url):
             page2 = await page2_info.value
             # 获取页面标题
             pagetitle = await page.title()
+            invite_expire = await page2.locator('#time-info').inner_text() 
             # 隐藏或替换页面标题中的 "直播录像备份" 文案
             pagetitle = pagetitle.replace('直播录像备份-', '').replace('合集', '')
             videostext = f"[YGQS]{pagetitle}的百度网盘链接:  "
             videourl = page2.url
-            logger.info(f"{videostext} {videourl}")
+            logger.info(f"{videostext} {videourl}  {invite_expire}")
             # print(videostext, videourl)
             return videostext, videourl
         except Exception as e:
